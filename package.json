@@ -1,0 +1,17 @@
+{
+  "name": "mythirdapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "george",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.3"
+  }
+}
